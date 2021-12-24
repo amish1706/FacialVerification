@@ -1,2 +1,2 @@
-# FaceRecognitionSiamese
-Face Recognition Using Siamese Network
+# Face Recognition using Siamese Network
+

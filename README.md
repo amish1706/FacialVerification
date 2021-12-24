@@ -1,2 +1,2 @@
-# Face Recognition using Siamese Network
+# Facial Verification using Siamese Network
 
